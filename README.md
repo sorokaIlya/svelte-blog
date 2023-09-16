@@ -1,5 +1,8 @@
 # Svelte + TS + Vite
 
-This template should help get you started developing with Svelte and TypeScript in Vite.
+Это Простой блог на Svelte, реализован простой просмотр постов с update/create операциями и сохранением состояния в Local Storage
 
-#
+## Start
+```bash
+npm install && npm run dev
+```
